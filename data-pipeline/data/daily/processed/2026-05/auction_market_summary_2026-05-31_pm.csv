@@ -1,0 +1,2 @@
+﻿product_name,auction_date,market_code,market_name,weighted_avg_auction_price,high_price,low_price,total_trade_qty,row_count,valid_row_count,outlier_count,corp_count,raw_high_price,raw_low_price
+양파,2026-05-31,320101,춘천,10324.8,10760.0,10000.0,23400.0,2,2,0,1,10760.0,10000.0

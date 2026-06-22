@@ -1,0 +1,10 @@
+﻿status_column,status_value,count,rate
+label_status_1d,ready,8448,97.91
+label_status_1d,pending,180,2.09
+label_status_3d,ready,8088,93.74
+label_status_3d,pending,540,6.26
+label_status_7d,ready,7369,85.41
+label_status_7d,pending,1259,14.59
+label_status,ready,7369,85.41
+label_status,partial_ready,719,8.33
+label_status,pending,540,6.26

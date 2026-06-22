@@ -1,0 +1,10 @@
+product_name,canonical_product_name,marketMatchName,aliasReason,aliasType
+쌀20kg,쌀,쌀,포장 단위 제거 후 표준 품목명으로 매칭,market
+쌀10kg,쌀,쌀,포장 단위 제거 후 표준 품목명으로 매칭,market
+사과5kg,사과,사과,중량 단위 제거 후 표준 품목명으로 매칭,market
+두쫀쿠,두바이쫀득쿠키,,SNS 약칭을 대표 상품명으로 매칭,sns
+우쫀쿠,우베쫀득쿠키,,SNS 약칭을 대표 상품명으로 매칭,sns
+오이샐러드,오이,오이,레시피형 키워드를 원물 품목으로 매칭,sns_market
+말차디저트,말차,말차,디저트형 키워드를 대표 품목으로 매칭,sns_market
+감자10kg,감자,감자,중량 단위 제거 후 표준 품목명으로 매칭,market
+양파3kg,양파,양파,중량 단위 제거 후 표준 품목명으로 매칭,market

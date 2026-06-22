@@ -1,0 +1,1110 @@
+{
+  "복분자": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "오이": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "사과": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "토마토": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "망고": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "무늬오징어": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "냉동블루베리": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "체리": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "병아리콩": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "열무김치": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "홍감자": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "아귀포": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "오렌지": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "마늘": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "쌀": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "미숫가루": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "멜론": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "아몬드": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "참기름": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "갑오징어": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "누룽지": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "당근": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "땅콩": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "다슬기": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "양파": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": [
+              {
+                "auctn_seq": "00001",
+                "corp_cd": "32010101",
+                "corp_gds_cd": "21000",
+                "corp_gds_item_nm": "양파",
+                "corp_gds_vrty_nm": "양파",
+                "corp_nm": "춘천중앙청과㈜",
+                "gds_lclsf_cd": "12",
+                "gds_lclsf_nm": "조미채소류",
+                "gds_mclsf_cd": "01",
+                "gds_mclsf_nm": "양파",
+                "gds_sclsf_cd": "01",
+                "gds_sclsf_nm": "양파(일반)",
+                "mdfcn_dt": "2026-06-02 16:21:56",
+                "pkg_cd": "107",
+                "pkg_nm": "파렛트",
+                "plor_cd": "200010",
+                "plor_nm": "강원특별자치도 춘천시 옥천동",
+                "qty": "670.000",
+                "scsbd_dt": "2026-06-01 21:40:23",
+                "scsbd_prc": "10000.000",
+                "spm_no": "20022002",
+                "trd_clcln_ymd": "2026-05-31",
+                "trd_se": "정가수의",
+                "unit_cd": "12",
+                "unit_nm": "kg",
+                "unit_qty": "20.000",
+                "whsl_mrkt_cd": "320101",
+                "whsl_mrkt_nm": "춘천",
+                "product_name": "양파"
+              },
+              {
+                "auctn_seq": "00001",
+                "corp_cd": "32010101",
+                "corp_gds_cd": "21000",
+                "corp_gds_item_nm": "양파",
+                "corp_gds_vrty_nm": "양파",
+                "corp_nm": "춘천중앙청과㈜",
+                "gds_lclsf_cd": "12",
+                "gds_lclsf_nm": "조미채소류",
+                "gds_mclsf_cd": "01",
+                "gds_mclsf_nm": "양파",
+                "gds_sclsf_cd": "01",
+                "gds_sclsf_nm": "양파(일반)",
+                "mdfcn_dt": "2026-06-02 16:21:56",
+                "pkg_cd": "107",
+                "pkg_nm": "파렛트",
+                "plor_cd": "763800",
+                "plor_nm": "경북 청송군 청송읍",
+                "qty": "500.000",
+                "scsbd_dt": "2026-06-01 21:34:53",
+                "scsbd_prc": "10760.000",
+                "spm_no": "20012001",
+                "trd_clcln_ymd": "2026-05-31",
+                "trd_se": "정가수의",
+                "unit_cd": "12",
+                "unit_nm": "kg",
+                "unit_qty": "20.000",
+                "whsl_mrkt_cd": "320101",
+                "whsl_mrkt_nm": "춘천",
+                "product_name": "양파"
+              }
+            ]
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 2
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "딸기": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "삼겹살": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "자두": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "꿀": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "청매실": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "옥수수": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "개복숭아": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "들기름": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "고구마": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "홍매실": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "메밀국수": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "명란젓": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "방울토마토": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "살구": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "호두": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "능이버섯": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "매실": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "쌀10kg": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "쌀20kg": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "수박": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "복숭아": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "참외": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "산딸기": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "꽃게": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "블루베리": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "참외10kg": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "계란": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "마늘쫑": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "감자": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ],
+  "오디": [
+    {
+      "response": {
+        "body": {
+          "dataType": "JSON",
+          "items": {
+            "item": []
+          },
+          "numOfRows": 500,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "0",
+          "resultMsg": "정상"
+        }
+      }
+    }
+  ]
+}

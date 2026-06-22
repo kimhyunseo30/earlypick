@@ -1,0 +1,4164 @@
+{
+  "generatedAt": "2026-04-22T21:29:55+09:00",
+  "dateLabel": "2026-04-21",
+  "summary": {
+    "analyzedCount": 20,
+    "earlyCount": 0,
+    "conversionCount": 20,
+    "overheatedCount": 0,
+    "priceRiskCount": 2
+  },
+  "snsSummary": {
+    "candidateCount": 1,
+    "earlyCount": 0,
+    "conversionCount": 1,
+    "overheatedCount": 0
+  },
+  "highlights": {
+    "early": [],
+    "conversion": [
+      "쌀20kg",
+      "오메가3",
+      "참외"
+    ],
+    "overheated": []
+  },
+  "snsHighlights": {
+    "early": [],
+    "conversion": [
+      "오이"
+    ],
+    "overheated": []
+  },
+  "products": [
+    {
+      "id": "2026-04-21-1",
+      "name": "쌀20kg",
+      "todayRank": 1,
+      "marketGroup": "기타 식품",
+      "category": "기타",
+      "subCategory": "기타",
+      "originType": "국내산",
+      "unit": "20kg",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 89.3,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 26.3,
+      "shoppingRatioToday": 93.9,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 92.3,
+      "bubbleRiskScore": 2.3,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 26.3
+          },
+          {
+            "date": "04-16",
+            "value": 26.7
+          },
+          {
+            "date": "04-17",
+            "value": 23.3
+          },
+          {
+            "date": "04-18",
+            "value": 20.9
+          },
+          {
+            "date": "04-19",
+            "value": 25.1
+          },
+          {
+            "date": "04-20",
+            "value": 25.5
+          },
+          {
+            "date": "04-21",
+            "value": 26.3
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 80.4
+          },
+          {
+            "date": "04-16",
+            "value": 72.4
+          },
+          {
+            "date": "04-17",
+            "value": 61.2
+          },
+          {
+            "date": "04-18",
+            "value": 59.7
+          },
+          {
+            "date": "04-19",
+            "value": 77.8
+          },
+          {
+            "date": "04-20",
+            "value": 84.3
+          },
+          {
+            "date": "04-21",
+            "value": 93.9
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-2",
+      "name": "오메가3",
+      "todayRank": 2,
+      "marketGroup": "기타 식품",
+      "category": "기타",
+      "subCategory": "기타",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 89.8,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 97.6,
+      "shoppingRatioToday": 90.7,
+      "searchLeadDays": 0,
+      "conversionScore": 95.1,
+      "persistenceScore": 98.8,
+      "bubbleRiskScore": 0.6,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 84.2
+          },
+          {
+            "date": "04-16",
+            "value": 82.2
+          },
+          {
+            "date": "04-17",
+            "value": 74.8
+          },
+          {
+            "date": "04-18",
+            "value": 72.0
+          },
+          {
+            "date": "04-19",
+            "value": 87.2
+          },
+          {
+            "date": "04-20",
+            "value": 100.0
+          },
+          {
+            "date": "04-21",
+            "value": 97.6
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 82.3
+          },
+          {
+            "date": "04-16",
+            "value": 79.4
+          },
+          {
+            "date": "04-17",
+            "value": 74.0
+          },
+          {
+            "date": "04-18",
+            "value": 75.7
+          },
+          {
+            "date": "04-19",
+            "value": 94.3
+          },
+          {
+            "date": "04-20",
+            "value": 99.6
+          },
+          {
+            "date": "04-21",
+            "value": 90.7
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-3",
+      "name": "참외",
+      "todayRank": 3,
+      "marketGroup": "국내산 과일",
+      "category": "과일",
+      "subCategory": "과일류",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 87.6,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 39.4,
+      "shoppingRatioToday": 84.4,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 87.2,
+      "bubbleRiskScore": 3.8,
+      "drivers": [
+        "쇼핑전환",
+        "계절성"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "보통",
+      "fxRisk": "낮음",
+      "eventTags": [
+        "계절성"
+      ],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 36.6
+          },
+          {
+            "date": "04-16",
+            "value": 41.0
+          },
+          {
+            "date": "04-17",
+            "value": 32.5
+          },
+          {
+            "date": "04-18",
+            "value": 29.6
+          },
+          {
+            "date": "04-19",
+            "value": 33.5
+          },
+          {
+            "date": "04-20",
+            "value": 38.3
+          },
+          {
+            "date": "04-21",
+            "value": 39.4
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 67.9
+          },
+          {
+            "date": "04-16",
+            "value": 77.8
+          },
+          {
+            "date": "04-17",
+            "value": 66.1
+          },
+          {
+            "date": "04-18",
+            "value": 52.4
+          },
+          {
+            "date": "04-19",
+            "value": 66.3
+          },
+          {
+            "date": "04-20",
+            "value": 73.1
+          },
+          {
+            "date": "04-21",
+            "value": 84.4
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-4",
+      "name": "닭가슴살",
+      "todayRank": 4,
+      "marketGroup": "기타 식품",
+      "category": "기타",
+      "subCategory": "기타",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 87.3,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 86.1,
+      "shoppingRatioToday": 79.2,
+      "searchLeadDays": 0,
+      "conversionScore": 94.4,
+      "persistenceScore": 96.4,
+      "bubbleRiskScore": 5.8,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 81.3
+          },
+          {
+            "date": "04-16",
+            "value": 74.5
+          },
+          {
+            "date": "04-17",
+            "value": 60.6
+          },
+          {
+            "date": "04-18",
+            "value": 50.2
+          },
+          {
+            "date": "04-19",
+            "value": 66.0
+          },
+          {
+            "date": "04-20",
+            "value": 92.7
+          },
+          {
+            "date": "04-21",
+            "value": 86.1
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 76.4
+          },
+          {
+            "date": "04-16",
+            "value": 73.5
+          },
+          {
+            "date": "04-17",
+            "value": 70.6
+          },
+          {
+            "date": "04-18",
+            "value": 59.9
+          },
+          {
+            "date": "04-19",
+            "value": 71.3
+          },
+          {
+            "date": "04-20",
+            "value": 85.9
+          },
+          {
+            "date": "04-21",
+            "value": 79.2
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-5",
+      "name": "쌀10kg",
+      "todayRank": 5,
+      "marketGroup": "기타 식품",
+      "category": "기타",
+      "subCategory": "기타",
+      "originType": "국내산",
+      "unit": "10kg",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 89.8,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 26.1,
+      "shoppingRatioToday": 74.8,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 93.5,
+      "bubbleRiskScore": 1.9,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 23.7
+          },
+          {
+            "date": "04-16",
+            "value": 21.9
+          },
+          {
+            "date": "04-17",
+            "value": 20.4
+          },
+          {
+            "date": "04-18",
+            "value": 18.8
+          },
+          {
+            "date": "04-19",
+            "value": 24.3
+          },
+          {
+            "date": "04-20",
+            "value": 29.9
+          },
+          {
+            "date": "04-21",
+            "value": 26.1
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 63.1
+          },
+          {
+            "date": "04-16",
+            "value": 71.2
+          },
+          {
+            "date": "04-17",
+            "value": 52.9
+          },
+          {
+            "date": "04-18",
+            "value": 59.0
+          },
+          {
+            "date": "04-19",
+            "value": 69.2
+          },
+          {
+            "date": "04-20",
+            "value": 82.8
+          },
+          {
+            "date": "04-21",
+            "value": 74.8
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-6",
+      "name": "촉촉한황치즈칩",
+      "todayRank": 6,
+      "marketGroup": "수입 원재료",
+      "category": "원재료",
+      "subCategory": "수입 원재료",
+      "originType": "수입",
+      "unit": "1개",
+      "origin": "수입",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 91.1,
+      "action": "우선 검토",
+      "priceRisk": "높음",
+      "searchRatioToday": 76.5,
+      "shoppingRatioToday": 74.9,
+      "searchLeadDays": 0,
+      "conversionScore": 98.5,
+      "persistenceScore": 100.0,
+      "bubbleRiskScore": 1.1,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "보통",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 28.3
+          },
+          {
+            "date": "04-16",
+            "value": 24.2
+          },
+          {
+            "date": "04-17",
+            "value": 19.0
+          },
+          {
+            "date": "04-18",
+            "value": 14.2
+          },
+          {
+            "date": "04-19",
+            "value": 14.2
+          },
+          {
+            "date": "04-20",
+            "value": 46.5
+          },
+          {
+            "date": "04-21",
+            "value": 76.5
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 29.6
+          },
+          {
+            "date": "04-16",
+            "value": 25.1
+          },
+          {
+            "date": "04-17",
+            "value": 20.3
+          },
+          {
+            "date": "04-18",
+            "value": 18.0
+          },
+          {
+            "date": "04-19",
+            "value": 21.0
+          },
+          {
+            "date": "04-20",
+            "value": 44.7
+          },
+          {
+            "date": "04-21",
+            "value": 74.9
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-7",
+      "name": "창억떡",
+      "todayRank": 7,
+      "marketGroup": "기타 식품",
+      "category": "간식",
+      "subCategory": "떡류",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 86.9,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 67.8,
+      "shoppingRatioToday": 71.6,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 87.6,
+      "bubbleRiskScore": 6.4,
+      "drivers": [
+        "쇼핑전환",
+        "SNS확산"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [
+        "SNS"
+      ],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 75.6
+          },
+          {
+            "date": "04-16",
+            "value": 70.9
+          },
+          {
+            "date": "04-17",
+            "value": 65.2
+          },
+          {
+            "date": "04-18",
+            "value": 60.5
+          },
+          {
+            "date": "04-19",
+            "value": 54.8
+          },
+          {
+            "date": "04-20",
+            "value": 68.6
+          },
+          {
+            "date": "04-21",
+            "value": 67.8
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 62.9
+          },
+          {
+            "date": "04-16",
+            "value": 66.3
+          },
+          {
+            "date": "04-17",
+            "value": 55.8
+          },
+          {
+            "date": "04-18",
+            "value": 58.5
+          },
+          {
+            "date": "04-19",
+            "value": 59.2
+          },
+          {
+            "date": "04-20",
+            "value": 71.7
+          },
+          {
+            "date": "04-21",
+            "value": 71.6
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-8",
+      "name": "두릅",
+      "todayRank": 8,
+      "marketGroup": "국내산 채소",
+      "category": "채소",
+      "subCategory": "채소류",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 90.6,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 30.7,
+      "shoppingRatioToday": 70.6,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 95.9,
+      "bubbleRiskScore": 1.2,
+      "drivers": [
+        "쇼핑전환",
+        "출하량"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "보통",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 32.6
+          },
+          {
+            "date": "04-16",
+            "value": 32.2
+          },
+          {
+            "date": "04-17",
+            "value": 31.1
+          },
+          {
+            "date": "04-18",
+            "value": 31.3
+          },
+          {
+            "date": "04-19",
+            "value": 33.2
+          },
+          {
+            "date": "04-20",
+            "value": 31.6
+          },
+          {
+            "date": "04-21",
+            "value": 30.7
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 93.7
+          },
+          {
+            "date": "04-16",
+            "value": 82.9
+          },
+          {
+            "date": "04-17",
+            "value": 74.6
+          },
+          {
+            "date": "04-18",
+            "value": 75.8
+          },
+          {
+            "date": "04-19",
+            "value": 75.0
+          },
+          {
+            "date": "04-20",
+            "value": 79.6
+          },
+          {
+            "date": "04-21",
+            "value": 70.6
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-9",
+      "name": "비타민c",
+      "todayRank": 9,
+      "marketGroup": "기타 식품",
+      "category": "기타",
+      "subCategory": "기타",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 92.0,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 17.8,
+      "shoppingRatioToday": 66.4,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 100.0,
+      "bubbleRiskScore": 0.0,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 15.1
+          },
+          {
+            "date": "04-16",
+            "value": 15.5
+          },
+          {
+            "date": "04-17",
+            "value": 14.2
+          },
+          {
+            "date": "04-18",
+            "value": 14.0
+          },
+          {
+            "date": "04-19",
+            "value": 16.5
+          },
+          {
+            "date": "04-20",
+            "value": 17.3
+          },
+          {
+            "date": "04-21",
+            "value": 17.8
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 46.1
+          },
+          {
+            "date": "04-16",
+            "value": 57.4
+          },
+          {
+            "date": "04-17",
+            "value": 50.5
+          },
+          {
+            "date": "04-18",
+            "value": 52.3
+          },
+          {
+            "date": "04-19",
+            "value": 64.6
+          },
+          {
+            "date": "04-20",
+            "value": 68.7
+          },
+          {
+            "date": "04-21",
+            "value": 66.4
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-10",
+      "name": "사과",
+      "todayRank": 10,
+      "marketGroup": "국내산 과일",
+      "category": "과일",
+      "subCategory": "과일류",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 90.7,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 11.2,
+      "shoppingRatioToday": 62.5,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 96.2,
+      "bubbleRiskScore": 1.2,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "보통",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 11.2
+          },
+          {
+            "date": "04-16",
+            "value": 10.4
+          },
+          {
+            "date": "04-17",
+            "value": 9.3
+          },
+          {
+            "date": "04-18",
+            "value": 8.0
+          },
+          {
+            "date": "04-19",
+            "value": 10.2
+          },
+          {
+            "date": "04-20",
+            "value": 12.2
+          },
+          {
+            "date": "04-21",
+            "value": 11.2
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 67.0
+          },
+          {
+            "date": "04-16",
+            "value": 76.0
+          },
+          {
+            "date": "04-17",
+            "value": 45.7
+          },
+          {
+            "date": "04-18",
+            "value": 40.3
+          },
+          {
+            "date": "04-19",
+            "value": 53.8
+          },
+          {
+            "date": "04-20",
+            "value": 59.0
+          },
+          {
+            "date": "04-21",
+            "value": 62.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-11",
+      "name": "마늘쫑",
+      "todayRank": 11,
+      "marketGroup": "기타 식품",
+      "category": "기타",
+      "subCategory": "기타",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 100.0,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 18.9,
+      "shoppingRatioToday": 88.7,
+      "searchLeadDays": 1,
+      "conversionScore": 100.0,
+      "persistenceScore": 100.0,
+      "bubbleRiskScore": 0.0,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 11.9
+          },
+          {
+            "date": "04-16",
+            "value": 12.8
+          },
+          {
+            "date": "04-17",
+            "value": 12.3
+          },
+          {
+            "date": "04-18",
+            "value": 12.1
+          },
+          {
+            "date": "04-19",
+            "value": 14.4
+          },
+          {
+            "date": "04-20",
+            "value": 16.7
+          },
+          {
+            "date": "04-21",
+            "value": 18.9
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 51.2
+          },
+          {
+            "date": "04-16",
+            "value": 52.1
+          },
+          {
+            "date": "04-17",
+            "value": 60.4
+          },
+          {
+            "date": "04-18",
+            "value": 45.5
+          },
+          {
+            "date": "04-19",
+            "value": 55.3
+          },
+          {
+            "date": "04-20",
+            "value": 60.1
+          },
+          {
+            "date": "04-21",
+            "value": 88.7
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-12",
+      "name": "엄나무순",
+      "todayRank": 12,
+      "marketGroup": "국내산 채소",
+      "category": "채소",
+      "subCategory": "채소류",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 92.0,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 78.3,
+      "shoppingRatioToday": 84.3,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 100.0,
+      "bubbleRiskScore": 0.0,
+      "drivers": [
+        "쇼핑전환",
+        "출하량"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "보통",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 61.8
+          },
+          {
+            "date": "04-16",
+            "value": 64.3
+          },
+          {
+            "date": "04-17",
+            "value": 67.1
+          },
+          {
+            "date": "04-18",
+            "value": 70.5
+          },
+          {
+            "date": "04-19",
+            "value": 74.2
+          },
+          {
+            "date": "04-20",
+            "value": 73.5
+          },
+          {
+            "date": "04-21",
+            "value": 78.3
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 81.8
+          },
+          {
+            "date": "04-16",
+            "value": 73.8
+          },
+          {
+            "date": "04-17",
+            "value": 74.5
+          },
+          {
+            "date": "04-18",
+            "value": 80.1
+          },
+          {
+            "date": "04-19",
+            "value": 72.4
+          },
+          {
+            "date": "04-20",
+            "value": 86.3
+          },
+          {
+            "date": "04-21",
+            "value": 84.3
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-13",
+      "name": "레몬즙",
+      "todayRank": 13,
+      "marketGroup": "국내산 과일",
+      "category": "과일",
+      "subCategory": "과일류",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 91.5,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 16.0,
+      "shoppingRatioToday": 79.7,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 98.5,
+      "bubbleRiskScore": 0.4,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "보통",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 15.8
+          },
+          {
+            "date": "04-16",
+            "value": 14.8
+          },
+          {
+            "date": "04-17",
+            "value": 12.5
+          },
+          {
+            "date": "04-18",
+            "value": 12.5
+          },
+          {
+            "date": "04-19",
+            "value": 14.6
+          },
+          {
+            "date": "04-20",
+            "value": 16.5
+          },
+          {
+            "date": "04-21",
+            "value": 16.0
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 79.2
+          },
+          {
+            "date": "04-16",
+            "value": 69.0
+          },
+          {
+            "date": "04-17",
+            "value": 61.4
+          },
+          {
+            "date": "04-18",
+            "value": 51.7
+          },
+          {
+            "date": "04-19",
+            "value": 59.9
+          },
+          {
+            "date": "04-20",
+            "value": 77.6
+          },
+          {
+            "date": "04-21",
+            "value": 79.7
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-14",
+      "name": "올리브오일",
+      "todayRank": 14,
+      "marketGroup": "수입 원재료",
+      "category": "원재료",
+      "subCategory": "수입 원재료",
+      "originType": "수입",
+      "unit": "1개",
+      "origin": "수입",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 91.4,
+      "action": "우선 검토",
+      "priceRisk": "높음",
+      "searchRatioToday": 35.3,
+      "shoppingRatioToday": 79.5,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 98.2,
+      "bubbleRiskScore": 0.5,
+      "drivers": [
+        "쇼핑전환",
+        "원가민감"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "보통",
+      "eventTags": [
+        "원가민감"
+      ],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 35.3
+          },
+          {
+            "date": "04-16",
+            "value": 31.0
+          },
+          {
+            "date": "04-17",
+            "value": 28.8
+          },
+          {
+            "date": "04-18",
+            "value": 34.0
+          },
+          {
+            "date": "04-19",
+            "value": 35.7
+          },
+          {
+            "date": "04-20",
+            "value": 36.6
+          },
+          {
+            "date": "04-21",
+            "value": 35.3
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 77.7
+          },
+          {
+            "date": "04-16",
+            "value": 74.4
+          },
+          {
+            "date": "04-17",
+            "value": 70.8
+          },
+          {
+            "date": "04-18",
+            "value": 61.7
+          },
+          {
+            "date": "04-19",
+            "value": 74.2
+          },
+          {
+            "date": "04-20",
+            "value": 83.3
+          },
+          {
+            "date": "04-21",
+            "value": 79.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-15",
+      "name": "알부민",
+      "todayRank": 15,
+      "marketGroup": "기타 식품",
+      "category": "기타",
+      "subCategory": "기타",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 85.0,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 45.4,
+      "shoppingRatioToday": 79.2,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 79.8,
+      "bubbleRiskScore": 6.0,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 62.3
+          },
+          {
+            "date": "04-16",
+            "value": 51.4
+          },
+          {
+            "date": "04-17",
+            "value": 42.3
+          },
+          {
+            "date": "04-18",
+            "value": 47.4
+          },
+          {
+            "date": "04-19",
+            "value": 40.3
+          },
+          {
+            "date": "04-20",
+            "value": 58.9
+          },
+          {
+            "date": "04-21",
+            "value": 45.4
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 95.9
+          },
+          {
+            "date": "04-16",
+            "value": 96.7
+          },
+          {
+            "date": "04-17",
+            "value": 82.7
+          },
+          {
+            "date": "04-18",
+            "value": 73.2
+          },
+          {
+            "date": "04-19",
+            "value": 83.3
+          },
+          {
+            "date": "04-20",
+            "value": 100.0
+          },
+          {
+            "date": "04-21",
+            "value": 79.2
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-16",
+      "name": "임박",
+      "todayRank": 16,
+      "marketGroup": "기타 식품",
+      "category": "기타",
+      "subCategory": "기타",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 90.3,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 7.8,
+      "shoppingRatioToday": 75.1,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 95.0,
+      "bubbleRiskScore": 1.5,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 7.3
+          },
+          {
+            "date": "04-16",
+            "value": 7.5
+          },
+          {
+            "date": "04-17",
+            "value": 6.8
+          },
+          {
+            "date": "04-18",
+            "value": 4.8
+          },
+          {
+            "date": "04-19",
+            "value": 5.4
+          },
+          {
+            "date": "04-20",
+            "value": 8.7
+          },
+          {
+            "date": "04-21",
+            "value": 7.8
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 65.4
+          },
+          {
+            "date": "04-16",
+            "value": 71.8
+          },
+          {
+            "date": "04-17",
+            "value": 74.2
+          },
+          {
+            "date": "04-18",
+            "value": 48.2
+          },
+          {
+            "date": "04-19",
+            "value": 44.5
+          },
+          {
+            "date": "04-20",
+            "value": 78.7
+          },
+          {
+            "date": "04-21",
+            "value": 75.1
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-17",
+      "name": "생수",
+      "todayRank": 17,
+      "marketGroup": "커피/음료",
+      "category": "음료",
+      "subCategory": "음료류",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 88.6,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 61.5,
+      "shoppingRatioToday": 74.2,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 90.3,
+      "bubbleRiskScore": 2.9,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 65.5
+          },
+          {
+            "date": "04-16",
+            "value": 64.1
+          },
+          {
+            "date": "04-17",
+            "value": 55.3
+          },
+          {
+            "date": "04-18",
+            "value": 47.2
+          },
+          {
+            "date": "04-19",
+            "value": 58.0
+          },
+          {
+            "date": "04-20",
+            "value": 62.0
+          },
+          {
+            "date": "04-21",
+            "value": 61.5
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 79.5
+          },
+          {
+            "date": "04-16",
+            "value": 74.1
+          },
+          {
+            "date": "04-17",
+            "value": 57.6
+          },
+          {
+            "date": "04-18",
+            "value": 43.1
+          },
+          {
+            "date": "04-19",
+            "value": 63.2
+          },
+          {
+            "date": "04-20",
+            "value": 74.5
+          },
+          {
+            "date": "04-21",
+            "value": 74.2
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-18",
+      "name": "꽃게",
+      "todayRank": 18,
+      "marketGroup": "기타 식품",
+      "category": "기타",
+      "subCategory": "기타",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 89.8,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 75.4,
+      "shoppingRatioToday": 72.6,
+      "searchLeadDays": 0,
+      "conversionScore": 97.4,
+      "persistenceScore": 96.7,
+      "bubbleRiskScore": 1.4,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 56.2
+          },
+          {
+            "date": "04-16",
+            "value": 71.0
+          },
+          {
+            "date": "04-17",
+            "value": 64.1
+          },
+          {
+            "date": "04-18",
+            "value": 57.6
+          },
+          {
+            "date": "04-19",
+            "value": 75.5
+          },
+          {
+            "date": "04-20",
+            "value": 80.6
+          },
+          {
+            "date": "04-21",
+            "value": 75.4
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 63.0
+          },
+          {
+            "date": "04-16",
+            "value": 78.6
+          },
+          {
+            "date": "04-17",
+            "value": 64.2
+          },
+          {
+            "date": "04-18",
+            "value": 40.2
+          },
+          {
+            "date": "04-19",
+            "value": 58.2
+          },
+          {
+            "date": "04-20",
+            "value": 80.1
+          },
+          {
+            "date": "04-21",
+            "value": 72.6
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-19",
+      "name": "마그네슘",
+      "todayRank": 19,
+      "marketGroup": "기타 식품",
+      "category": "기타",
+      "subCategory": "기타",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 85.9,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 92.3,
+      "shoppingRatioToday": 72.5,
+      "searchLeadDays": 0,
+      "conversionScore": 84.9,
+      "persistenceScore": 97.7,
+      "bubbleRiskScore": 0.7,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 89.3
+          },
+          {
+            "date": "04-16",
+            "value": 83.1
+          },
+          {
+            "date": "04-17",
+            "value": 77.6
+          },
+          {
+            "date": "04-18",
+            "value": 76.8
+          },
+          {
+            "date": "04-19",
+            "value": 82.0
+          },
+          {
+            "date": "04-20",
+            "value": 96.7
+          },
+          {
+            "date": "04-21",
+            "value": 92.3
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 91.1
+          },
+          {
+            "date": "04-16",
+            "value": 77.1
+          },
+          {
+            "date": "04-17",
+            "value": 83.6
+          },
+          {
+            "date": "04-18",
+            "value": 84.1
+          },
+          {
+            "date": "04-19",
+            "value": 80.2
+          },
+          {
+            "date": "04-20",
+            "value": 98.8
+          },
+          {
+            "date": "04-21",
+            "value": 72.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-20",
+      "name": "구운계란",
+      "todayRank": 20,
+      "marketGroup": "기타 식품",
+      "category": "기타",
+      "subCategory": "기타",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 98.5,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 63.4,
+      "shoppingRatioToday": 70.9,
+      "searchLeadDays": 1,
+      "conversionScore": 100.0,
+      "persistenceScore": 95.5,
+      "bubbleRiskScore": 1.3,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 55.8
+          },
+          {
+            "date": "04-16",
+            "value": 53.6
+          },
+          {
+            "date": "04-17",
+            "value": 40.5
+          },
+          {
+            "date": "04-18",
+            "value": 29.1
+          },
+          {
+            "date": "04-19",
+            "value": 39.2
+          },
+          {
+            "date": "04-20",
+            "value": 69.6
+          },
+          {
+            "date": "04-21",
+            "value": 63.4
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 52.5
+          },
+          {
+            "date": "04-16",
+            "value": 56.9
+          },
+          {
+            "date": "04-17",
+            "value": 47.7
+          },
+          {
+            "date": "04-18",
+            "value": 30.9
+          },
+          {
+            "date": "04-19",
+            "value": 46.9
+          },
+          {
+            "date": "04-20",
+            "value": 53.3
+          },
+          {
+            "date": "04-21",
+            "value": 70.9
+          }
+        ]
+      }
+    }
+  ],
+  "naverTop20": [
+    {
+      "id": "2026-04-21-1",
+      "name": "쌀20kg",
+      "todayRank": 1,
+      "marketGroup": "기타 식품",
+      "category": "기타",
+      "subCategory": "기타",
+      "originType": "국내산",
+      "unit": "20kg",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 89.3,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 26.3,
+      "shoppingRatioToday": 93.9,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 92.3,
+      "bubbleRiskScore": 2.3,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 26.3
+          },
+          {
+            "date": "04-16",
+            "value": 26.7
+          },
+          {
+            "date": "04-17",
+            "value": 23.3
+          },
+          {
+            "date": "04-18",
+            "value": 20.9
+          },
+          {
+            "date": "04-19",
+            "value": 25.1
+          },
+          {
+            "date": "04-20",
+            "value": 25.5
+          },
+          {
+            "date": "04-21",
+            "value": 26.3
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 80.4
+          },
+          {
+            "date": "04-16",
+            "value": 72.4
+          },
+          {
+            "date": "04-17",
+            "value": 61.2
+          },
+          {
+            "date": "04-18",
+            "value": 59.7
+          },
+          {
+            "date": "04-19",
+            "value": 77.8
+          },
+          {
+            "date": "04-20",
+            "value": 84.3
+          },
+          {
+            "date": "04-21",
+            "value": 93.9
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-2",
+      "name": "오메가3",
+      "todayRank": 2,
+      "marketGroup": "기타 식품",
+      "category": "기타",
+      "subCategory": "기타",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 89.8,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 97.6,
+      "shoppingRatioToday": 90.7,
+      "searchLeadDays": 0,
+      "conversionScore": 95.1,
+      "persistenceScore": 98.8,
+      "bubbleRiskScore": 0.6,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 84.2
+          },
+          {
+            "date": "04-16",
+            "value": 82.2
+          },
+          {
+            "date": "04-17",
+            "value": 74.8
+          },
+          {
+            "date": "04-18",
+            "value": 72.0
+          },
+          {
+            "date": "04-19",
+            "value": 87.2
+          },
+          {
+            "date": "04-20",
+            "value": 100.0
+          },
+          {
+            "date": "04-21",
+            "value": 97.6
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 82.3
+          },
+          {
+            "date": "04-16",
+            "value": 79.4
+          },
+          {
+            "date": "04-17",
+            "value": 74.0
+          },
+          {
+            "date": "04-18",
+            "value": 75.7
+          },
+          {
+            "date": "04-19",
+            "value": 94.3
+          },
+          {
+            "date": "04-20",
+            "value": 99.6
+          },
+          {
+            "date": "04-21",
+            "value": 90.7
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-3",
+      "name": "참외",
+      "todayRank": 3,
+      "marketGroup": "국내산 과일",
+      "category": "과일",
+      "subCategory": "과일류",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 87.6,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 39.4,
+      "shoppingRatioToday": 84.4,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 87.2,
+      "bubbleRiskScore": 3.8,
+      "drivers": [
+        "쇼핑전환",
+        "계절성"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "보통",
+      "fxRisk": "낮음",
+      "eventTags": [
+        "계절성"
+      ],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 36.6
+          },
+          {
+            "date": "04-16",
+            "value": 41.0
+          },
+          {
+            "date": "04-17",
+            "value": 32.5
+          },
+          {
+            "date": "04-18",
+            "value": 29.6
+          },
+          {
+            "date": "04-19",
+            "value": 33.5
+          },
+          {
+            "date": "04-20",
+            "value": 38.3
+          },
+          {
+            "date": "04-21",
+            "value": 39.4
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 67.9
+          },
+          {
+            "date": "04-16",
+            "value": 77.8
+          },
+          {
+            "date": "04-17",
+            "value": 66.1
+          },
+          {
+            "date": "04-18",
+            "value": 52.4
+          },
+          {
+            "date": "04-19",
+            "value": 66.3
+          },
+          {
+            "date": "04-20",
+            "value": 73.1
+          },
+          {
+            "date": "04-21",
+            "value": 84.4
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-4",
+      "name": "닭가슴살",
+      "todayRank": 4,
+      "marketGroup": "기타 식품",
+      "category": "기타",
+      "subCategory": "기타",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 87.3,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 86.1,
+      "shoppingRatioToday": 79.2,
+      "searchLeadDays": 0,
+      "conversionScore": 94.4,
+      "persistenceScore": 96.4,
+      "bubbleRiskScore": 5.8,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 81.3
+          },
+          {
+            "date": "04-16",
+            "value": 74.5
+          },
+          {
+            "date": "04-17",
+            "value": 60.6
+          },
+          {
+            "date": "04-18",
+            "value": 50.2
+          },
+          {
+            "date": "04-19",
+            "value": 66.0
+          },
+          {
+            "date": "04-20",
+            "value": 92.7
+          },
+          {
+            "date": "04-21",
+            "value": 86.1
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 76.4
+          },
+          {
+            "date": "04-16",
+            "value": 73.5
+          },
+          {
+            "date": "04-17",
+            "value": 70.6
+          },
+          {
+            "date": "04-18",
+            "value": 59.9
+          },
+          {
+            "date": "04-19",
+            "value": 71.3
+          },
+          {
+            "date": "04-20",
+            "value": 85.9
+          },
+          {
+            "date": "04-21",
+            "value": 79.2
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-5",
+      "name": "쌀10kg",
+      "todayRank": 5,
+      "marketGroup": "기타 식품",
+      "category": "기타",
+      "subCategory": "기타",
+      "originType": "국내산",
+      "unit": "10kg",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 89.8,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 26.1,
+      "shoppingRatioToday": 74.8,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 93.5,
+      "bubbleRiskScore": 1.9,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 23.7
+          },
+          {
+            "date": "04-16",
+            "value": 21.9
+          },
+          {
+            "date": "04-17",
+            "value": 20.4
+          },
+          {
+            "date": "04-18",
+            "value": 18.8
+          },
+          {
+            "date": "04-19",
+            "value": 24.3
+          },
+          {
+            "date": "04-20",
+            "value": 29.9
+          },
+          {
+            "date": "04-21",
+            "value": 26.1
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 63.1
+          },
+          {
+            "date": "04-16",
+            "value": 71.2
+          },
+          {
+            "date": "04-17",
+            "value": 52.9
+          },
+          {
+            "date": "04-18",
+            "value": 59.0
+          },
+          {
+            "date": "04-19",
+            "value": 69.2
+          },
+          {
+            "date": "04-20",
+            "value": 82.8
+          },
+          {
+            "date": "04-21",
+            "value": 74.8
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-6",
+      "name": "촉촉한황치즈칩",
+      "todayRank": 6,
+      "marketGroup": "수입 원재료",
+      "category": "원재료",
+      "subCategory": "수입 원재료",
+      "originType": "수입",
+      "unit": "1개",
+      "origin": "수입",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 91.1,
+      "action": "우선 검토",
+      "priceRisk": "높음",
+      "searchRatioToday": 76.5,
+      "shoppingRatioToday": 74.9,
+      "searchLeadDays": 0,
+      "conversionScore": 98.5,
+      "persistenceScore": 100.0,
+      "bubbleRiskScore": 1.1,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "보통",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 28.3
+          },
+          {
+            "date": "04-16",
+            "value": 24.2
+          },
+          {
+            "date": "04-17",
+            "value": 19.0
+          },
+          {
+            "date": "04-18",
+            "value": 14.2
+          },
+          {
+            "date": "04-19",
+            "value": 14.2
+          },
+          {
+            "date": "04-20",
+            "value": 46.5
+          },
+          {
+            "date": "04-21",
+            "value": 76.5
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 29.6
+          },
+          {
+            "date": "04-16",
+            "value": 25.1
+          },
+          {
+            "date": "04-17",
+            "value": 20.3
+          },
+          {
+            "date": "04-18",
+            "value": 18.0
+          },
+          {
+            "date": "04-19",
+            "value": 21.0
+          },
+          {
+            "date": "04-20",
+            "value": 44.7
+          },
+          {
+            "date": "04-21",
+            "value": 74.9
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-7",
+      "name": "창억떡",
+      "todayRank": 7,
+      "marketGroup": "기타 식품",
+      "category": "간식",
+      "subCategory": "떡류",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 86.9,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 67.8,
+      "shoppingRatioToday": 71.6,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 87.6,
+      "bubbleRiskScore": 6.4,
+      "drivers": [
+        "쇼핑전환",
+        "SNS확산"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [
+        "SNS"
+      ],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 75.6
+          },
+          {
+            "date": "04-16",
+            "value": 70.9
+          },
+          {
+            "date": "04-17",
+            "value": 65.2
+          },
+          {
+            "date": "04-18",
+            "value": 60.5
+          },
+          {
+            "date": "04-19",
+            "value": 54.8
+          },
+          {
+            "date": "04-20",
+            "value": 68.6
+          },
+          {
+            "date": "04-21",
+            "value": 67.8
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 62.9
+          },
+          {
+            "date": "04-16",
+            "value": 66.3
+          },
+          {
+            "date": "04-17",
+            "value": 55.8
+          },
+          {
+            "date": "04-18",
+            "value": 58.5
+          },
+          {
+            "date": "04-19",
+            "value": 59.2
+          },
+          {
+            "date": "04-20",
+            "value": 71.7
+          },
+          {
+            "date": "04-21",
+            "value": 71.6
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-8",
+      "name": "두릅",
+      "todayRank": 8,
+      "marketGroup": "국내산 채소",
+      "category": "채소",
+      "subCategory": "채소류",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 90.6,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 30.7,
+      "shoppingRatioToday": 70.6,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 95.9,
+      "bubbleRiskScore": 1.2,
+      "drivers": [
+        "쇼핑전환",
+        "출하량"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "보통",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 32.6
+          },
+          {
+            "date": "04-16",
+            "value": 32.2
+          },
+          {
+            "date": "04-17",
+            "value": 31.1
+          },
+          {
+            "date": "04-18",
+            "value": 31.3
+          },
+          {
+            "date": "04-19",
+            "value": 33.2
+          },
+          {
+            "date": "04-20",
+            "value": 31.6
+          },
+          {
+            "date": "04-21",
+            "value": 30.7
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 93.7
+          },
+          {
+            "date": "04-16",
+            "value": 82.9
+          },
+          {
+            "date": "04-17",
+            "value": 74.6
+          },
+          {
+            "date": "04-18",
+            "value": 75.8
+          },
+          {
+            "date": "04-19",
+            "value": 75.0
+          },
+          {
+            "date": "04-20",
+            "value": 79.6
+          },
+          {
+            "date": "04-21",
+            "value": 70.6
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-9",
+      "name": "비타민c",
+      "todayRank": 9,
+      "marketGroup": "기타 식품",
+      "category": "기타",
+      "subCategory": "기타",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 92.0,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 17.8,
+      "shoppingRatioToday": 66.4,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 100.0,
+      "bubbleRiskScore": 0.0,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 15.1
+          },
+          {
+            "date": "04-16",
+            "value": 15.5
+          },
+          {
+            "date": "04-17",
+            "value": 14.2
+          },
+          {
+            "date": "04-18",
+            "value": 14.0
+          },
+          {
+            "date": "04-19",
+            "value": 16.5
+          },
+          {
+            "date": "04-20",
+            "value": 17.3
+          },
+          {
+            "date": "04-21",
+            "value": 17.8
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 46.1
+          },
+          {
+            "date": "04-16",
+            "value": 57.4
+          },
+          {
+            "date": "04-17",
+            "value": 50.5
+          },
+          {
+            "date": "04-18",
+            "value": 52.3
+          },
+          {
+            "date": "04-19",
+            "value": 64.6
+          },
+          {
+            "date": "04-20",
+            "value": 68.7
+          },
+          {
+            "date": "04-21",
+            "value": 66.4
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-10",
+      "name": "사과",
+      "todayRank": 10,
+      "marketGroup": "국내산 과일",
+      "category": "과일",
+      "subCategory": "과일류",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 90.7,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 11.2,
+      "shoppingRatioToday": 62.5,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 96.2,
+      "bubbleRiskScore": 1.2,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "보통",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 11.2
+          },
+          {
+            "date": "04-16",
+            "value": 10.4
+          },
+          {
+            "date": "04-17",
+            "value": 9.3
+          },
+          {
+            "date": "04-18",
+            "value": 8.0
+          },
+          {
+            "date": "04-19",
+            "value": 10.2
+          },
+          {
+            "date": "04-20",
+            "value": 12.2
+          },
+          {
+            "date": "04-21",
+            "value": 11.2
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 67.0
+          },
+          {
+            "date": "04-16",
+            "value": 76.0
+          },
+          {
+            "date": "04-17",
+            "value": 45.7
+          },
+          {
+            "date": "04-18",
+            "value": 40.3
+          },
+          {
+            "date": "04-19",
+            "value": 53.8
+          },
+          {
+            "date": "04-20",
+            "value": 59.0
+          },
+          {
+            "date": "04-21",
+            "value": 62.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-11",
+      "name": "마늘쫑",
+      "todayRank": 11,
+      "marketGroup": "기타 식품",
+      "category": "기타",
+      "subCategory": "기타",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 100.0,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 18.9,
+      "shoppingRatioToday": 88.7,
+      "searchLeadDays": 1,
+      "conversionScore": 100.0,
+      "persistenceScore": 100.0,
+      "bubbleRiskScore": 0.0,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 11.9
+          },
+          {
+            "date": "04-16",
+            "value": 12.8
+          },
+          {
+            "date": "04-17",
+            "value": 12.3
+          },
+          {
+            "date": "04-18",
+            "value": 12.1
+          },
+          {
+            "date": "04-19",
+            "value": 14.4
+          },
+          {
+            "date": "04-20",
+            "value": 16.7
+          },
+          {
+            "date": "04-21",
+            "value": 18.9
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 51.2
+          },
+          {
+            "date": "04-16",
+            "value": 52.1
+          },
+          {
+            "date": "04-17",
+            "value": 60.4
+          },
+          {
+            "date": "04-18",
+            "value": 45.5
+          },
+          {
+            "date": "04-19",
+            "value": 55.3
+          },
+          {
+            "date": "04-20",
+            "value": 60.1
+          },
+          {
+            "date": "04-21",
+            "value": 88.7
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-12",
+      "name": "엄나무순",
+      "todayRank": 12,
+      "marketGroup": "국내산 채소",
+      "category": "채소",
+      "subCategory": "채소류",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 92.0,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 78.3,
+      "shoppingRatioToday": 84.3,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 100.0,
+      "bubbleRiskScore": 0.0,
+      "drivers": [
+        "쇼핑전환",
+        "출하량"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "보통",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 61.8
+          },
+          {
+            "date": "04-16",
+            "value": 64.3
+          },
+          {
+            "date": "04-17",
+            "value": 67.1
+          },
+          {
+            "date": "04-18",
+            "value": 70.5
+          },
+          {
+            "date": "04-19",
+            "value": 74.2
+          },
+          {
+            "date": "04-20",
+            "value": 73.5
+          },
+          {
+            "date": "04-21",
+            "value": 78.3
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 81.8
+          },
+          {
+            "date": "04-16",
+            "value": 73.8
+          },
+          {
+            "date": "04-17",
+            "value": 74.5
+          },
+          {
+            "date": "04-18",
+            "value": 80.1
+          },
+          {
+            "date": "04-19",
+            "value": 72.4
+          },
+          {
+            "date": "04-20",
+            "value": 86.3
+          },
+          {
+            "date": "04-21",
+            "value": 84.3
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-13",
+      "name": "레몬즙",
+      "todayRank": 13,
+      "marketGroup": "국내산 과일",
+      "category": "과일",
+      "subCategory": "과일류",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 91.5,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 16.0,
+      "shoppingRatioToday": 79.7,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 98.5,
+      "bubbleRiskScore": 0.4,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "보통",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 15.8
+          },
+          {
+            "date": "04-16",
+            "value": 14.8
+          },
+          {
+            "date": "04-17",
+            "value": 12.5
+          },
+          {
+            "date": "04-18",
+            "value": 12.5
+          },
+          {
+            "date": "04-19",
+            "value": 14.6
+          },
+          {
+            "date": "04-20",
+            "value": 16.5
+          },
+          {
+            "date": "04-21",
+            "value": 16.0
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 79.2
+          },
+          {
+            "date": "04-16",
+            "value": 69.0
+          },
+          {
+            "date": "04-17",
+            "value": 61.4
+          },
+          {
+            "date": "04-18",
+            "value": 51.7
+          },
+          {
+            "date": "04-19",
+            "value": 59.9
+          },
+          {
+            "date": "04-20",
+            "value": 77.6
+          },
+          {
+            "date": "04-21",
+            "value": 79.7
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-14",
+      "name": "올리브오일",
+      "todayRank": 14,
+      "marketGroup": "수입 원재료",
+      "category": "원재료",
+      "subCategory": "수입 원재료",
+      "originType": "수입",
+      "unit": "1개",
+      "origin": "수입",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 91.4,
+      "action": "우선 검토",
+      "priceRisk": "높음",
+      "searchRatioToday": 35.3,
+      "shoppingRatioToday": 79.5,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 98.2,
+      "bubbleRiskScore": 0.5,
+      "drivers": [
+        "쇼핑전환",
+        "원가민감"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "보통",
+      "eventTags": [
+        "원가민감"
+      ],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 35.3
+          },
+          {
+            "date": "04-16",
+            "value": 31.0
+          },
+          {
+            "date": "04-17",
+            "value": 28.8
+          },
+          {
+            "date": "04-18",
+            "value": 34.0
+          },
+          {
+            "date": "04-19",
+            "value": 35.7
+          },
+          {
+            "date": "04-20",
+            "value": 36.6
+          },
+          {
+            "date": "04-21",
+            "value": 35.3
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 77.7
+          },
+          {
+            "date": "04-16",
+            "value": 74.4
+          },
+          {
+            "date": "04-17",
+            "value": 70.8
+          },
+          {
+            "date": "04-18",
+            "value": 61.7
+          },
+          {
+            "date": "04-19",
+            "value": 74.2
+          },
+          {
+            "date": "04-20",
+            "value": 83.3
+          },
+          {
+            "date": "04-21",
+            "value": 79.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-15",
+      "name": "알부민",
+      "todayRank": 15,
+      "marketGroup": "기타 식품",
+      "category": "기타",
+      "subCategory": "기타",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 85.0,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 45.4,
+      "shoppingRatioToday": 79.2,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 79.8,
+      "bubbleRiskScore": 6.0,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 62.3
+          },
+          {
+            "date": "04-16",
+            "value": 51.4
+          },
+          {
+            "date": "04-17",
+            "value": 42.3
+          },
+          {
+            "date": "04-18",
+            "value": 47.4
+          },
+          {
+            "date": "04-19",
+            "value": 40.3
+          },
+          {
+            "date": "04-20",
+            "value": 58.9
+          },
+          {
+            "date": "04-21",
+            "value": 45.4
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 95.9
+          },
+          {
+            "date": "04-16",
+            "value": 96.7
+          },
+          {
+            "date": "04-17",
+            "value": 82.7
+          },
+          {
+            "date": "04-18",
+            "value": 73.2
+          },
+          {
+            "date": "04-19",
+            "value": 83.3
+          },
+          {
+            "date": "04-20",
+            "value": 100.0
+          },
+          {
+            "date": "04-21",
+            "value": 79.2
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-16",
+      "name": "임박",
+      "todayRank": 16,
+      "marketGroup": "기타 식품",
+      "category": "기타",
+      "subCategory": "기타",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 90.3,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 7.8,
+      "shoppingRatioToday": 75.1,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 95.0,
+      "bubbleRiskScore": 1.5,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 7.3
+          },
+          {
+            "date": "04-16",
+            "value": 7.5
+          },
+          {
+            "date": "04-17",
+            "value": 6.8
+          },
+          {
+            "date": "04-18",
+            "value": 4.8
+          },
+          {
+            "date": "04-19",
+            "value": 5.4
+          },
+          {
+            "date": "04-20",
+            "value": 8.7
+          },
+          {
+            "date": "04-21",
+            "value": 7.8
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 65.4
+          },
+          {
+            "date": "04-16",
+            "value": 71.8
+          },
+          {
+            "date": "04-17",
+            "value": 74.2
+          },
+          {
+            "date": "04-18",
+            "value": 48.2
+          },
+          {
+            "date": "04-19",
+            "value": 44.5
+          },
+          {
+            "date": "04-20",
+            "value": 78.7
+          },
+          {
+            "date": "04-21",
+            "value": 75.1
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-17",
+      "name": "생수",
+      "todayRank": 17,
+      "marketGroup": "커피/음료",
+      "category": "음료",
+      "subCategory": "음료류",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 88.6,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 61.5,
+      "shoppingRatioToday": 74.2,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 90.3,
+      "bubbleRiskScore": 2.9,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 65.5
+          },
+          {
+            "date": "04-16",
+            "value": 64.1
+          },
+          {
+            "date": "04-17",
+            "value": 55.3
+          },
+          {
+            "date": "04-18",
+            "value": 47.2
+          },
+          {
+            "date": "04-19",
+            "value": 58.0
+          },
+          {
+            "date": "04-20",
+            "value": 62.0
+          },
+          {
+            "date": "04-21",
+            "value": 61.5
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 79.5
+          },
+          {
+            "date": "04-16",
+            "value": 74.1
+          },
+          {
+            "date": "04-17",
+            "value": 57.6
+          },
+          {
+            "date": "04-18",
+            "value": 43.1
+          },
+          {
+            "date": "04-19",
+            "value": 63.2
+          },
+          {
+            "date": "04-20",
+            "value": 74.5
+          },
+          {
+            "date": "04-21",
+            "value": 74.2
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-18",
+      "name": "꽃게",
+      "todayRank": 18,
+      "marketGroup": "기타 식품",
+      "category": "기타",
+      "subCategory": "기타",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 89.8,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 75.4,
+      "shoppingRatioToday": 72.6,
+      "searchLeadDays": 0,
+      "conversionScore": 97.4,
+      "persistenceScore": 96.7,
+      "bubbleRiskScore": 1.4,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 56.2
+          },
+          {
+            "date": "04-16",
+            "value": 71.0
+          },
+          {
+            "date": "04-17",
+            "value": 64.1
+          },
+          {
+            "date": "04-18",
+            "value": 57.6
+          },
+          {
+            "date": "04-19",
+            "value": 75.5
+          },
+          {
+            "date": "04-20",
+            "value": 80.6
+          },
+          {
+            "date": "04-21",
+            "value": 75.4
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 63.0
+          },
+          {
+            "date": "04-16",
+            "value": 78.6
+          },
+          {
+            "date": "04-17",
+            "value": 64.2
+          },
+          {
+            "date": "04-18",
+            "value": 40.2
+          },
+          {
+            "date": "04-19",
+            "value": 58.2
+          },
+          {
+            "date": "04-20",
+            "value": 80.1
+          },
+          {
+            "date": "04-21",
+            "value": 72.6
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-19",
+      "name": "마그네슘",
+      "todayRank": 19,
+      "marketGroup": "기타 식품",
+      "category": "기타",
+      "subCategory": "기타",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 85.9,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 92.3,
+      "shoppingRatioToday": 72.5,
+      "searchLeadDays": 0,
+      "conversionScore": 84.9,
+      "persistenceScore": 97.7,
+      "bubbleRiskScore": 0.7,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 89.3
+          },
+          {
+            "date": "04-16",
+            "value": 83.1
+          },
+          {
+            "date": "04-17",
+            "value": 77.6
+          },
+          {
+            "date": "04-18",
+            "value": 76.8
+          },
+          {
+            "date": "04-19",
+            "value": 82.0
+          },
+          {
+            "date": "04-20",
+            "value": 96.7
+          },
+          {
+            "date": "04-21",
+            "value": 92.3
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 91.1
+          },
+          {
+            "date": "04-16",
+            "value": 77.1
+          },
+          {
+            "date": "04-17",
+            "value": 83.6
+          },
+          {
+            "date": "04-18",
+            "value": 84.1
+          },
+          {
+            "date": "04-19",
+            "value": 80.2
+          },
+          {
+            "date": "04-20",
+            "value": 98.8
+          },
+          {
+            "date": "04-21",
+            "value": 72.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-04-21-20",
+      "name": "구운계란",
+      "todayRank": 20,
+      "marketGroup": "기타 식품",
+      "category": "기타",
+      "subCategory": "기타",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "top20",
+      "source": "naver_datalab",
+      "sourceNote": "",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 98.5,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 63.4,
+      "shoppingRatioToday": 70.9,
+      "searchLeadDays": 1,
+      "conversionScore": 100.0,
+      "persistenceScore": 95.5,
+      "bubbleRiskScore": 1.3,
+      "drivers": [
+        "쇼핑전환"
+      ],
+      "summary": "검색과 쇼핑 클릭이 함께 강하게 움직이는 전환형 상품입니다.",
+      "detailReason": "검색과 쇼핑 클릭이 함께 강하게 움직이고 있으며 유지력도 좋아 실제 구매 검토 단계에 가까운 상품으로 해석했습니다.",
+      "forecast7d": "향후 7일 내 높은 관심 유지 가능성",
+      "forecast14d": "향후 14일 내 후기·재고 흐름에 따라 강세 유지 가능성",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "낮음",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 55.8
+          },
+          {
+            "date": "04-16",
+            "value": 53.6
+          },
+          {
+            "date": "04-17",
+            "value": 40.5
+          },
+          {
+            "date": "04-18",
+            "value": 29.1
+          },
+          {
+            "date": "04-19",
+            "value": 39.2
+          },
+          {
+            "date": "04-20",
+            "value": 69.6
+          },
+          {
+            "date": "04-21",
+            "value": 63.4
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 52.5
+          },
+          {
+            "date": "04-16",
+            "value": 56.9
+          },
+          {
+            "date": "04-17",
+            "value": 47.7
+          },
+          {
+            "date": "04-18",
+            "value": 30.9
+          },
+          {
+            "date": "04-19",
+            "value": 46.9
+          },
+          {
+            "date": "04-20",
+            "value": 53.3
+          },
+          {
+            "date": "04-21",
+            "value": 70.9
+          }
+        ]
+      }
+    }
+  ],
+  "snsCandidates": [
+    {
+      "id": "2026-04-21-sns-오이",
+      "name": "오이",
+      "todayRank": null,
+      "marketGroup": "국내산 채소",
+      "category": "채소",
+      "subCategory": "채소류",
+      "originType": "국내산",
+      "unit": "1개",
+      "origin": "국내산",
+      "sourceType": "sns",
+      "source": "instagram",
+      "sourceNote": "오이샐러드 레시피 증가",
+      "signalGroup": "conversion",
+      "signalLabel": "구매전환 강한 후보",
+      "signalScore": 91.5,
+      "action": "우선 검토",
+      "priceRisk": "낮음",
+      "searchRatioToday": 96.9,
+      "shoppingRatioToday": 100.0,
+      "searchLeadDays": 0,
+      "conversionScore": 100.0,
+      "persistenceScore": 98.5,
+      "bubbleRiskScore": 0.5,
+      "drivers": [
+        "SNS선행",
+        "쇼핑전환",
+        "계절성",
+        "출하량"
+      ],
+      "summary": "SNS 선행 후 네이버 검색과 쇼핑 반응이 함께 붙는 전환형 후보입니다.",
+      "detailReason": "SNS 선행 신호 이후 네이버 검색과 쇼핑 클릭이 함께 움직이고 있어 실제 구매 검토 단계로 넘어가는 후보로 해석했습니다.",
+      "forecast7d": "향후 7일 내 네이버 쇼핑 전환 확대 가능성",
+      "forecast14d": "향후 14일 내 시장 확산 여부 확인 필요",
+      "priceNow": null,
+      "priceChangeRate": null,
+      "priceSource": null,
+      "weatherRisk": "보통",
+      "fxRisk": "낮음",
+      "eventTags": [],
+      "series": {
+        "search": [
+          {
+            "date": "04-15",
+            "value": 89.0
+          },
+          {
+            "date": "04-16",
+            "value": 87.1
+          },
+          {
+            "date": "04-17",
+            "value": 84.7
+          },
+          {
+            "date": "04-18",
+            "value": 84.8
+          },
+          {
+            "date": "04-19",
+            "value": 100.0
+          },
+          {
+            "date": "04-20",
+            "value": 98.5
+          },
+          {
+            "date": "04-21",
+            "value": 96.9
+          }
+        ],
+        "shopping": [
+          {
+            "date": "04-15",
+            "value": 84.5
+          },
+          {
+            "date": "04-16",
+            "value": 87.2
+          },
+          {
+            "date": "04-17",
+            "value": 73.4
+          },
+          {
+            "date": "04-18",
+            "value": 56.5
+          },
+          {
+            "date": "04-19",
+            "value": 87.8
+          },
+          {
+            "date": "04-20",
+            "value": 92.3
+          },
+          {
+            "date": "04-21",
+            "value": 100.0
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+﻿target_column,horizon,ready_rows,positive_count,negative_count,missing_count,positive_rate,note
+target_top20_next_1d,1d,8448,95,8353,0,1.12,
+target_top20_next_3d,3d,8088,215,7873,0,2.66,
+target_top20_next_7d,7d,7369,361,7008,0,4.9,
+target_rank_50_next_3d,3d,8088,1166,6922,0,14.42,
+target_rank_50_next_7d,7d,7369,1594,5775,0,21.63,
+target_search_up_next_3d,3d,8088,2187,1783,4118,27.04,
+target_click_up_next_3d,3d,8088,2446,1522,4120,30.24,
+target_search_up_next_7d,7d,7369,2390,1580,3399,32.43,
+target_click_up_next_7d,7d,7369,2694,1274,3401,36.56,
+target_interest_confirmed_next_3d,3d,8088,3424,4664,0,42.33,
+target_priority_success_next_7d,7d,7369,3786,3583,0,51.38,

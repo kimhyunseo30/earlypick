@@ -1,0 +1,10 @@
+product_name,market_type,reason
+오메가3,health_supplement,건강식품/브랜드형 상품으로 원물 도매시장 가격 비대상입니다.
+콜라겐,health_supplement,건강식품/브랜드형 상품으로 원물 도매시장 가격 비대상입니다.
+뉴케어,brand_processed,브랜드 가공식품으로 원물 도매시장 가격 비대상입니다.
+창억떡,processed_food,가공식품으로 KAMIS·경락정보 직접 연결이 제한적입니다.
+버터떡,processed_food,가공식품으로 원재료 단위 가격 확인이 필요합니다.
+두쫀쿠,processed_food,가공식품/SNS 유행 상품으로 검색·쇼핑 반응 중심 확인이 적합합니다.
+레몬즙,processed_food,가공식품으로 원물 시장가격과 직접 비교가 어렵습니다.
+양배추즙,processed_food,가공식품으로 원물 시장가격과 직접 비교가 어렵습니다.
+말차 파우더,imported_ingredient,수입 원재료 성격이 강해 KAMIS·국내 경락정보 연결이 제한적입니다.

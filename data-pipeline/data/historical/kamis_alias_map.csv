@@ -1,0 +1,7 @@
+product_name,target_item_name,target_kind_name,target_rank_name,is_active,note
+오이,오이,다다기계통,상품,Y,기본 대표 품종
+사과,사과,후지,상품,Y,기본 대표 품종
+참외,참외,참외,상품,Y,기본 대표 품종
+두릅,두릅,두릅,상품,Y,기본 대표 품종
+레몬즙,,,,N,가공품 제외
+양배추즙,,,,N,가공품 제외

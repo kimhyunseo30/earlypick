@@ -1,0 +1,5 @@
+﻿product_name,auction_date,avg_auction_price,weighted_avg_auction_price,high_price,low_price,total_trade_qty,row_count,market_count,corp_count,variety_count
+감자,2026-04-29,56841.7,64218.2,77000.0,10000.0,183766.0,259,4,6,3
+사과,2026-04-29,61524.2,71439.8,146000.0,20000.0,880.0,33,1,1,1
+오이,2026-04-29,22000.0,22000.0,22000.0,22000.0,100.0,1,1,1,1
+참외,2026-04-29,49654.9,52797.4,76500.0,13500.0,114925.0,2329,9,13,3

@@ -1,0 +1,16 @@
+﻿check_name,value,description
+total_rows,8628,model_training_dataset 전체 행 수
+unique_snapshot_id,8628,중복 제거 기준 snapshot_id 수
+duplicate_snapshot_id,0,snapshot_id 중복 수. 0이면 정상
+min_date,2026-04-23,가장 오래된 feature 날짜
+max_date,2026-06-09,가장 최신 feature 날짜
+null_or_blank__date,0,date 비어 있는 행 수
+null_or_blank__slot,0,slot 비어 있는 행 수
+null_or_blank__product_name,0,product_name 비어 있는 행 수
+null_or_blank__rank,0,rank 비어 있는 행 수
+null_or_blank__rank_change,2316,rank_change 비어 있는 행 수
+null_or_blank__days_seen_7d,0,days_seen_7d 비어 있는 행 수
+null_or_blank__rank_velocity_3d,1628,rank_velocity_3d 비어 있는 행 수
+null_or_blank__rising_score,0,rising_score 비어 있는 행 수
+null_or_blank__rising_level,0,rising_level 비어 있는 행 수
+null_or_blank__confidence_level,0,confidence_level 비어 있는 행 수
